@@ -1,0 +1,7 @@
+sm_app_name: wholebrain
+sm_client_name: halnewton
+html5: true
+ 
+development:
+  key: 2eb5a46d-d21d-4289-835f-863ca8d3d0aa
+  secret: 025cb2a3-cd51-47f7-bdfa-63bcaf3ad334
